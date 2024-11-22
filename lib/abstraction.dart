@@ -1,6 +1,6 @@
 abstract class Vehicle {
   void start(); // Abstract method
-  void stop();  // Abstract method
+  void stop(); // Abstract method
 }
 
 class Bike extends Vehicle {
